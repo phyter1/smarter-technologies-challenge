@@ -1,6 +1,6 @@
 # Package Sort System
 
-A robust TypeScript package sorting system that classifies packages based on dimensions and mass into three categories: STANDARD, SPECIAL, or REJECTED.
+A package sorting system that classifies packages based on dimensions and mass into three categories: STANDARD, SPECIAL, or REJECTED.
 
 ## Quick Start
 
@@ -169,7 +169,7 @@ bun test --coverage   # Run tests with coverage report
 -------------------|---------|---------|-------------------
 File               | % Funcs | % Lines | Uncovered Line #s
 -------------------|---------|---------|-------------------
-All files           |  100.00 |  100.00 |
+All files          |  100.00 |  100.00 |
  src/error.ts      |  100.00 |  100.00 |
  src/index.ts      |  100.00 |  100.00 |
  src/validation.ts |  100.00 |  100.00 |
